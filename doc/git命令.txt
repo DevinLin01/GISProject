@@ -1,0 +1,7 @@
+git add . 
+
+git commit -m "ÃèÊö"
+
+git push	/	git push origin master
+
+git pull
